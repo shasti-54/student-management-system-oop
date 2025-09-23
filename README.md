@@ -37,5 +37,3 @@ git clone https://github.com/your-username/oop-student-management.git
 cd oop-student-management
 
 
-
-created by shasti
